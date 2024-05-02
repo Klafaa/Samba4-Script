@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 # Ellenőrizzük, hogy a felhasználó sudo-val futtatja-e a scriptet
